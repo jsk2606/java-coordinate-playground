@@ -9,9 +9,9 @@ public class Car {
         this.fuelEfficiency = fuelEfficiency;
     }
 
-    public String getModelName() {
-        return modelName;
-    }
+//    public String getModelName() {
+//        return modelName;
+//    }
 
     public int getFuelEfficiency() {
         return fuelEfficiency;
